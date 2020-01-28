@@ -6,7 +6,7 @@ function isBalanced($s) {
     $brackets = ['(' => ')', '{' => '}', '[' => ']'];
     $exploded = str_split($s);
     $stack = new SplStack();
-    foreach ($exploded as $k => $item) {
+    foreach ($exploded as $item) {
         if ($stack->isEmpty() && in_array($item, $brackets)) {
             return 'NO';
         }
