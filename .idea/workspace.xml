@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83f9fb89-757e-4f2d-9e5c-a23c47e692ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/BalancedBrackets/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BalancedBrackets/solution..php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueuesATaleTwoStacks/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QueuesATaleTwoStacks/solution..php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -45,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/BalancedBrackets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/QueuesATaleTwoStacks" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -58,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/QueuesATaleTwoStacks" />
       <recent name="$PROJECT_DIR$/BalancedBrackets" />
     </key>
   </component>
@@ -99,7 +100,7 @@
       <updated>1553681341724</updated>
       <workItem from="1553681343157" duration="11681000" />
       <workItem from="1554100358920" duration="15572000" />
-      <workItem from="1580211038548" duration="8326000" />
+      <workItem from="1580211038548" duration="13443000" />
     </task>
     <task id="LOCAL-00001" summary="2dArrayDS">
       <created>1580222231168</created>
@@ -108,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1580222231168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="2dArrayDS">
+      <created>1580223531603</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1580223531604</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2dArrayDS">
+      <created>1580223576607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1580223576607</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,10 +138,10 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="621" y="221" width="642" height="649" key="#solution.php/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580211152959" />
-    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2" timestamp="1580223531440">
+    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2" timestamp="1580223576431">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580223531440" />
+    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580223576431" />
     <state width="1849" height="243" key="GridCell.Tab.0.bottom" timestamp="1580223481028">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
@@ -151,10 +166,10 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="436" y="175" width="1022" height="742" key="SettingsEditor/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580211161290" />
-    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1580223532551">
+    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1580223577472">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580223532551" />
+    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580223577472" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
