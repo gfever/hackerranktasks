@@ -28,6 +28,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/LargestRectangle/readme.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LargestRectangle/solution..php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/LargestRectangle/test">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/QueuesATaleTwoStacks/readme.md">
           <value>
             <set />
@@ -48,7 +63,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/SideSearchResultsContainerWide.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/PresetSearchDecoratorTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/SideSearchResultsContainerWideTest.php">
           <value>
             <set />
           </value>
