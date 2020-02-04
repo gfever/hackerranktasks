@@ -8,6 +8,466 @@
             <set />
           </value>
         </entry>
+        <entry key="/a.dummy">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/a.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/.gitlab-ci.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/.gitlab/ci/build-docker-image.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/.phpunit.result.cache">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Console/Kernel.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Exceptions/Handler.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Gateway/Request.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/AuthController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/InstanceController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/ServiceController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/ApiController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/AuthController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/EndpointController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/InstanceController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/PermissionController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/RoleController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/ServiceController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/UserController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Auth/ConfirmPasswordController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Auth/ForgotPasswordController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Auth/LoginController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Auth/RegisterController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Auth/ResetPasswordController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Auth/VerificationController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Controller.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/GatewayController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/InstanceController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/ServiceController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Kernel.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Middleware/Authenticate.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/Auth/LoginRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/Auth/RegisterRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/InstanceCreateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/InstanceUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/PermissionCreateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/PermissionUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/RegisterRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/RoleCreateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/RoleUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/ServiceCreateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/ServiceUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/UserCreateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Requests/Api/UserUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Responses/Api/Auth/LoginResponse.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Models/Endpoint.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Models/Instance.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Models/Service.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Models/User.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Providers/AuthServiceProvider.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Providers/RouteServiceProvider.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Roles/Scheme.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Services/Pda/Service.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Transformers/InstanceTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Transformers/PermissionTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Transformers/RoleTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Transformers/ServiceTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Transformers/UserTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/composer.lock">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/app.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/auth.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/fractal.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/jwt.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/permission.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/roles.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/database/factories/UserFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/database/migrations/2020_01_29_105917_base_roles_permissions.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/database/migrations/2020_01_29_151636_services_instances_table.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/database/migrations/2020_01_29_160459_pda_service.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/database/migrations/2020_02_03_151636_endpoints_table.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/docker/common/php/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/docker/test/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/docker/test/src/backend/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/phpcs.xml.dist">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/phpunit.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/routes/api.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/routes/api/v1.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/routes/gateway.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/server.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/CreatesApplication.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Feature/Http/Controllers/Api/AuthControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Feature/Http/Controllers/GatewayControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Feature/Http/Controllers/InstanceControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Feature/Http/Controllers/PermissionControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Feature/Http/Controllers/RoleControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Feature/Http/Controllers/ServiceControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Feature/Http/Controllers/UserControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Requests/auth.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Unit/Http/Controllers/GatewayControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/vendor/composer/ClassLoader.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/2DArrayDS/readme.md">
           <value>
             <set />
@@ -53,6 +513,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/equal-stacks/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Exceptions/Handler.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Segmentation/DocumentController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/RequestBodies/DocumentBalanceData.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/QueryConverters/FinancialQueryConverter.php">
           <value>
             <set />
@@ -68,6 +548,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/PresetSearchDecoratorTest.php">
           <value>
             <set />
@@ -79,6 +564,81 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/data/presets/33.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Services/Ad.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Services/Adsense.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Services/Amazon.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/config/app.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/deployment/lmxapp/values-single.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/deployment/lmxapp/values.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/bootstrap4/chapter.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/bootstrap4/item2.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/bootstrap4/master.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/single/chapter.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/single/item.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/single/master.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/docker/src/headless-worker/supervisord.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_6.composerLog">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_7.composerLog">
           <value>
             <set />
           </value>
