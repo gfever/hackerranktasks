@@ -1,114 +1,95 @@
 <?php
 
 function twoStacks($x, $a, $b) {
-    $sumsa = [];
-    $sumsb = [];
+
+    $a = array_reverse($a);
+    $b = array_reverse($b);
+    if ($x === 0) {
+        return 0;
+    }
+    $sa = new SplStack();
+    foreach ($a as $n) {
+        $sa->push($n);
+    }
+
+
+    $sb = new SplStack();
+    foreach ($b as $n) {
+        $sb->push($n);
+    }
+
+    $sumsa = new SplStack();
+    $sumsb = new SplStack();
     $max = 0;
-    
-    $takeFrom = 'a';
+
+    $takeFrom = 'sa';
     $sumsasum = 0;
     $sumsbsum = 0;
+
+    $sumsacount = 0;
+    $sumsbcount = 0;
+
     while (true) {
-        if (empty($a) && empty($b)) {
+        if ($sa->isEmpty() && $sb->isEmpty()) {
             break;
-        } elseif (empty($b)) {
-            $sumsa[] = array_shift($a);
-            $sumsasum = array_sum($sumsa);
-        } elseif (empty($a)) {
-            $sumsb[] = array_shift($b);
-            $sumsbsum = array_sum($sumsb);
+        } elseif ($sb->isEmpty()) {
+            $shifted = $sa->pop();
+            $sumsa->push($shifted);
+            $sumsasum += $shifted;
+            $sumsacount++;
+        } elseif ($sa->isEmpty()) {
+            $shifted = $sb->pop();
+            $sumsb->push($shifted);
+            $sumsbsum += $shifted;
+            $sumsbcount++;
         } else {
-            ${'sums' . $takeFrom}[]  = array_shift($$takeFrom);
-            ${'sums' . $takeFrom . 'sum'} = array_sum(${'sums' . $takeFrom});
+            $shifted = ${$takeFrom}->pop();
+            ${'sum' . $takeFrom}->push($shifted);
+            ${'sum' . $takeFrom . 'sum'} += $shifted;
+            ${'sum' . $takeFrom . 'count'}++;
         }
         $sum = $sumsasum + $sumsbsum;
-        if ($sum > $x && $takeFrom === 'a') {
-            $max = count($sumsa) - 1;
-            $takeFrom = 'b';
-            array_unshift($a, array_pop($sumsa));
-            $sumsasum = array_sum($sumsa);
+        if ($sum > $x && $takeFrom === 'sa') {
+            $max = $sumsacount - 1;
+            $takeFrom = 'sb';
+            $popped = $sumsa->pop();
+            $sa->push($popped);
+            $sumsasum -= $popped;
+            $sumsacount--;
             continue;
         }
 
-        if ($sum > $x && (empty($a) || empty($b))) {
-            $maxc = (count($sumsa) + count($sumsb)) - 1;
+        if ($sum > $x && ($sa->isEmpty() || $sb->isEmpty())) {
+            $maxc = ($sumsacount + $sumsbcount) - 1;
             if ($maxc > $max) {
                 $max = $maxc;
             }
             return $max;
         }
-        
-        if ($sum > $x && $takeFrom === 'b' && !empty($sumsa)) {
-            $maxc = (count($sumsa) + count($sumsb)) - 1;
+
+        if ($sum > $x && $takeFrom === 'sb' && !$sumsa->isEmpty()) {
+            $maxc = ($sumsacount + $sumsbcount) - 1;
             if ($maxc > $max) {
                 $max = $maxc;
             }
-            array_unshift($a, array_pop($sumsa));
-            $sumsasum = array_sum($sumsa);
+            $popped = $sumsa->pop();
+            $sa->push($popped);
+            $sumsasum -= $popped;
+            $sumsacount--;
             continue;
         }
-        
-        if ($sum > $x && $takeFrom === 'b' && empty($sumsa)) {
-            $maxc = (count($sumsa) + count($sumsb)) - 1;
+
+        if ($sum > $x && $takeFrom === 'sb' && $sumsa->isEmpty()) {
+            $maxc = ($sumsacount + $sumsbcount) - 1;
             if ($maxc > $max) {
                 $max = $maxc;
             }
             return $max;
         }
     }
-    
-    return count($sumsb) + count($sumsa);
-}
 
-///*
-// * Complete the twoStacks function below.
-// */
-//function twoStacks($x, $a, $b) {
-//    $a = array_reverse($a);
-//    $b = array_reverse($b);
-//    if ($x === 0) {
-//        return 0;
-//    }
-//    $s1 = new SplStack();
-//    foreach ($a as $n) {
-//        $s1->push($n);
-//    }
-//
-//    
-//    $s2 = new SplStack();
-//    foreach ($b as $n) {
-//        $s2->push($n);
-//    }
-//    
-//    $sum = 0;
-//    $counter = 0;
-//    while (true) {
-//        $s1->rewind();
-//        $s2->rewind();
-//
-//        $cs2 = $s2->current();
-//        $cs1 = $s1->current();
-//        if ($s2->isEmpty() && $s1->isEmpty()) {
-//            break;
-//        } elseif ($s2->isEmpty()) {
-//            $sum += $s1->pop();
-//        } elseif ($s1->isEmpty()) {
-//            $sum += $s2->pop();
-//        } elseif ($s1->current() <= $s2->current()) {
-//            $sum += $s1->pop();
-//        } else {
-//            $sum += $s2->pop();
-//        }
-//
-//        if ($sum > $x) {
-//            break;
-//        }
-//        
-//        $counter++;
-//    }
-//
-//    c
-//}
+    return $sumsacount + $sumsbcount;
+}
 
 
 $a = '4 2 4 6 1';
