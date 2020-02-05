@@ -83,6 +83,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/GatewayController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Http/Controllers/Api/V1/InstanceController.php">
           <value>
             <set />
@@ -258,6 +263,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Observers/ServiceObserver.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Providers/AppServiceProvider.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Providers/AuthServiceProvider.php">
           <value>
             <set />
@@ -349,6 +364,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/database/migrations/2020_01_29_105917_base_roles_permissions.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/database/migrations/2020_01_29_151636_create_super_admin.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/database/migrations/2020_01_29_151636_create_super_admin_user.php">
           <value>
             <set />
           </value>
@@ -463,12 +488,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Requests/gateway.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Requests/http-client.env.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Requests/roles.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Requests/services.http">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Unit/Http/Controllers/GatewayControllerTest.php">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/vendor/composer/ClassLoader.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/vendor/laravel/framework/src/Illuminate/Http/Concerns/InteractsWithInput.php">
           <value>
             <set />
           </value>
@@ -534,6 +584,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/game-of-two-stacks/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/simple-text-editor/solution.php">
           <value>
             <set />
           </value>
@@ -659,6 +714,11 @@
           </value>
         </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_7.composerLog">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell">
           <value>
             <set />
           </value>
