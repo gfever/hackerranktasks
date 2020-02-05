@@ -408,6 +408,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/routes/web.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/server.php">
           <value>
             <set />
@@ -513,7 +518,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/equal-stacks/input">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/equal-stacks/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/game-of-two-stacks/expected">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/game-of-two-stacks/solution.php">
           <value>
             <set />
           </value>

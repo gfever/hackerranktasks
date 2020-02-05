@@ -118,4 +118,4 @@ $h3 = [
     1
 ];
 
-echo(equalStacks($h1, $h2, $h3));
+echo(equalStacks($h1, $h2, $h3) . PHP_EOL);
