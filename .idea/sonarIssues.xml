@@ -33,6 +33,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/.php_cs.cache">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/.phpunit.result.cache">
           <value>
             <set />
@@ -44,6 +49,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Exceptions/Handler.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/app/Gateway/GatewayRequest.php">
           <value>
             <set />
           </value>
@@ -588,7 +598,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/maximum-element/input">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/maximum-element/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/simple-text-editor/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/waiter/r">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/waiter/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/.gitlab-ci.yml">
           <value>
             <set />
           </value>
@@ -604,6 +639,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/RequestBodies/DocumentBalanceData.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Documents/PlayerDeviceDocument.php">
           <value>
             <set />
           </value>
@@ -624,6 +664,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/docker/common/php/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/phpunit.xml">
           <value>
             <set />
           </value>
@@ -719,6 +769,11 @@
           </value>
         </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="&lt;b3e81b86-a139-40d1-ad47-8b0c9149eca2&gt;/var/www/redbutton.dev2.devcaz.com/www/aps/htdocs/.env">
           <value>
             <set />
           </value>

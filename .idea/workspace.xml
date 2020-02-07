@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83f9fb89-757e-4f2d-9e5c-a23c47e692ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/simple-text-editor/solution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximum-element/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximum-element/solution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/waiter/r" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/waiter/solution.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -44,7 +47,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LargestRectangle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/maximum-element" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -60,18 +63,14 @@
       <recent name="$PROJECT_DIR$/game-of-two-stacks" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/maximum-element" />
+      <recent name="$PROJECT_DIR$/waiter" />
       <recent name="$PROJECT_DIR$/LargestRectangle" />
       <recent name="$PROJECT_DIR$/QueuesATaleTwoStacks" />
       <recent name="$PROJECT_DIR$/BalancedBrackets" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.solution.php (3)">
-    <configuration name="solution..php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/LargestRectangle/solution..php">
-      <method v="2" />
-    </configuration>
-    <configuration name="solution..php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/BalancedBrackets/solution..php">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="PHP Script.solution.php (4)">
     <configuration name="solution.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/equal-stacks/solution.php">
       <method v="2" />
     </configuration>
@@ -81,20 +80,26 @@
     <configuration name="solution.php (3)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/simple-text-editor/solution.php">
       <method v="2" />
     </configuration>
+    <configuration name="solution.php (4)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/waiter/solution.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="solution.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maximum-element/solution.php">
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="PHP Script.solution..php" />
-      <item itemvalue="PHP Script.solution..php (1)" />
       <item itemvalue="PHP Script.solution.php (1)" />
       <item itemvalue="PHP Script.solution.php (2)" />
       <item itemvalue="PHP Script.solution.php (3)" />
+      <item itemvalue="PHP Script.solution.php" />
+      <item itemvalue="PHP Script.solution.php (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.solution.php (4)" />
+        <item itemvalue="PHP Script.solution.php" />
         <item itemvalue="PHP Script.solution.php (3)" />
         <item itemvalue="PHP Script.solution.php (2)" />
         <item itemvalue="PHP Script.solution.php (1)" />
-        <item itemvalue="PHP Script.solution..php (1)" />
-        <item itemvalue="PHP Script.solution..php" />
       </list>
     </recent_temporary>
   </component>
@@ -114,7 +119,7 @@
       <workItem from="1580380954418" duration="23000" />
       <workItem from="1580381000878" duration="17323000" />
       <workItem from="1580463133850" duration="554000" />
-      <workItem from="1580463714316" duration="47299000" />
+      <workItem from="1580463714316" duration="71573000" />
     </task>
     <task id="LOCAL-00001" summary="2dArrayDS">
       <created>1580222231168</created>
@@ -172,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1580902862313</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="game of two stacks">
+      <created>1580920907879</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1580920907879</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -204,46 +216,50 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="621" y="221" width="642" height="649" key="#solution.php/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580211152959" />
-    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2" timestamp="1580902862245">
+    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2" timestamp="1580920907768">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580902862245" />
+    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920907768" />
+    <state x="200" y="104" width="1720" height="834" key="DiffContextDialog" timestamp="1581069421871">
+      <screen x="0" y="24" width="1920" height="1032" />
+    </state>
+    <state x="200" y="104" width="1720" height="834" key="DiffContextDialog/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069421871" />
     <state x="743" y="297" width="424" height="496" key="FileChooserDialogImpl" timestamp="1580901683226">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="743" y="297" width="424" height="496" key="FileChooserDialogImpl/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580901683226" />
-    <state width="1874" height="110" key="GridCell.Tab.0.bottom" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.0.bottom" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.0.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
-    <state width="1874" height="110" key="GridCell.Tab.0.center" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.0.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
+    <state width="1874" height="220" key="GridCell.Tab.0.center" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.0.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
-    <state width="1874" height="110" key="GridCell.Tab.0.left" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.0.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
+    <state width="1874" height="220" key="GridCell.Tab.0.left" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.0.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
-    <state width="1874" height="110" key="GridCell.Tab.0.right" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.0.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
+    <state width="1874" height="220" key="GridCell.Tab.0.right" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.0.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
-    <state width="1874" height="110" key="GridCell.Tab.1.bottom" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.0.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
+    <state width="1874" height="220" key="GridCell.Tab.1.bottom" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.1.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
-    <state width="1874" height="110" key="GridCell.Tab.1.center" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.1.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
+    <state width="1874" height="220" key="GridCell.Tab.1.center" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.1.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
-    <state width="1874" height="110" key="GridCell.Tab.1.left" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.1.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
+    <state width="1874" height="220" key="GridCell.Tab.1.left" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.1.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
-    <state width="1874" height="110" key="GridCell.Tab.1.right" timestamp="1580920795457">
+    <state width="1874" height="220" key="GridCell.Tab.1.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
+    <state width="1874" height="220" key="GridCell.Tab.1.right" timestamp="1581069392323">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="110" key="GridCell.Tab.1.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920795457" />
+    <state width="1874" height="220" key="GridCell.Tab.1.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069392323" />
     <state x="743" y="465" width="399" height="161" key="NewPhpFileDialog" timestamp="1580917354881">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
@@ -252,10 +268,10 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="436" y="175" width="1022" height="742" key="SettingsEditor/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580211161290" />
-    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1580902863210">
+    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1580920908853">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580902863210" />
+    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580920908853" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -444,6 +460,56 @@
           <url>file://$PROJECT_DIR$/simple-text-editor/solution.php</url>
           <line>60</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/maximum-element/solution.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/maximum-element/solution.php</url>
+          <line>74</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>28</line>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>21</line>
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>59</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>68</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>33</line>
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>35</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/waiter/solution.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
