@@ -23,6 +23,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/.env.example">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/.gitlab-ci.yml">
           <value>
             <set />
@@ -348,6 +353,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/cors.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/config/fractal.php">
           <value>
             <set />
@@ -518,6 +528,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Requests/users.http">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/tests/Unit/Http/Controllers/GatewayControllerTest.php">
           <value>
             <set />
@@ -608,7 +623,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/queue-stacks/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/simple-text-editor/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/swap-nodes-algo/input">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/swap-nodes-algo/input2">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/swap-nodes-algo/solution.php">
           <value>
             <set />
           </value>
@@ -644,6 +679,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Documents/PlayerDeviceDocument.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Search.php">
           <value>
             <set />
           </value>
@@ -693,6 +733,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/data/presets/big.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/httpRequests/bigpreset.http">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/httpRequests/http-client.env.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sym/kub/mycharts/traefik/howtinstall">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sym/kub/mycharts/traefik/values-w3.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../sym/kub/traefik">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Services/Ad.php">
           <value>
             <set />
@@ -709,6 +779,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/config/app.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/deployment/lmxapp/values-adult.yaml">
           <value>
             <set />
           </value>
@@ -754,6 +829,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/docker/src/headless-worker/supervisord.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxapp/values-adult.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxapp/values-single.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxapp/values.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxhdl/values.yaml">
           <value>
             <set />
           </value>
