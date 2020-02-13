@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83f9fb89-757e-4f2d-9e5c-a23c47e692ad" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jesse-and-cookies/solution.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-stacks/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/queue-stacks/solution.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swap-nodes-algo/input" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swap-nodes-algo/input2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/swap-nodes-algo/solution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find-the-running-median/expected" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find-the-running-median/input" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find-the-running-median/solution.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/qheap1/solution.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarIssues.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarIssues.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -69,14 +67,19 @@
       <recent name="$PROJECT_DIR$/LargestRectangle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/find-the-running-median" />
+      <recent name="$PROJECT_DIR$/jesse-and-cookies" />
       <recent name="$PROJECT_DIR$/game-of-two-stacks" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.solution.php (1)">
+  <component name="RunManager" selected="PHP Script.solution.php (3)">
     <configuration name="solution.php (1)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/jesse-and-cookies/solution.php">
       <method v="2" />
     </configuration>
-    <configuration name="solution.php (3)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/simple-text-editor/solution.php">
+    <configuration name="solution.php (2)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/qheap1/solution.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="solution.php (3)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/find-the-running-median/solution.php">
       <method v="2" />
     </configuration>
     <configuration name="solution.php (4)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/waiter/solution.php">
@@ -85,25 +88,34 @@
     <configuration name="solution.php (5)" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/queue-stacks/solution.php">
       <method v="2" />
     </configuration>
-    <configuration name="solution.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/maximum-element/solution.php">
-      <method v="2" />
-    </configuration>
     <list>
-      <item itemvalue="PHP Script.solution.php (3)" />
-      <item itemvalue="PHP Script.solution.php" />
       <item itemvalue="PHP Script.solution.php (4)" />
       <item itemvalue="PHP Script.solution.php (5)" />
       <item itemvalue="PHP Script.solution.php (1)" />
+      <item itemvalue="PHP Script.solution.php (2)" />
+      <item itemvalue="PHP Script.solution.php (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.solution.php (3)" />
+        <item itemvalue="PHP Script.solution.php (2)" />
         <item itemvalue="PHP Script.solution.php (1)" />
         <item itemvalue="PHP Script.solution.php (5)" />
         <item itemvalue="PHP Script.solution.php (4)" />
-        <item itemvalue="PHP Script.solution.php" />
-        <item itemvalue="PHP Script.solution.php (3)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -122,7 +134,7 @@
       <workItem from="1580381000878" duration="17323000" />
       <workItem from="1580463133850" duration="554000" />
       <workItem from="1580463714316" duration="80981000" />
-      <workItem from="1581080471815" duration="43670000" />
+      <workItem from="1581080471815" duration="99117000" />
     </task>
     <task id="LOCAL-00001" summary="2dArrayDS">
       <created>1580222231168</created>
@@ -194,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581069489785</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="game of two stacks">
+      <created>1581427662899</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1581427662899</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,22 +233,22 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="418" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580825510651" />
-    <state x="664" y="345" width="593" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581427359040">
+    <state x="664" y="345" width="593" height="402" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581512232573">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="664" y="345" width="593" height="402" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427359040" />
-    <state x="643" y="267" width="624" height="556" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1580900246981">
+    <state x="664" y="345" width="593" height="402" key="#com.intellij.fileTypes.FileTypeChooser/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581512232573" />
+    <state x="643" y="267" width="624" height="556" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1581504252322">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="643" y="267" width="624" height="556" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580900246981" />
+    <state x="643" y="267" width="624" height="556" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581504252322" />
     <state x="621" y="221" width="642" height="649" key="#solution.php" timestamp="1580211152959">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="621" y="221" width="642" height="649" key="#solution.php/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580211152959" />
-    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2" timestamp="1581069489665">
+    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2" timestamp="1581427662769">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069489665" />
+    <state x="512" y="135" width="860" height="822" key="CommitChangelistDialog2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427662769" />
     <state x="200" y="104" width="1720" height="834" key="DiffContextDialog" timestamp="1581069557562">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
@@ -238,38 +257,38 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="743" y="297" width="424" height="496" key="FileChooserDialogImpl/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580901683226" />
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom" timestamp="1581427471123">
+    <state width="1874" height="368" key="GridCell.Tab.0.bottom" timestamp="1581607463798">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
-    <state width="1874" height="304" key="GridCell.Tab.0.center" timestamp="1581427471123">
+    <state width="1874" height="368" key="GridCell.Tab.0.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581607463798" />
+    <state width="1874" height="368" key="GridCell.Tab.0.center" timestamp="1581607463798">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
-    <state width="1874" height="304" key="GridCell.Tab.0.left" timestamp="1581427471123">
+    <state width="1874" height="368" key="GridCell.Tab.0.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581607463798" />
+    <state width="1874" height="368" key="GridCell.Tab.0.left" timestamp="1581607463798">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
-    <state width="1874" height="304" key="GridCell.Tab.0.right" timestamp="1581427471123">
+    <state width="1874" height="368" key="GridCell.Tab.0.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581607463798" />
+    <state width="1874" height="368" key="GridCell.Tab.0.right" timestamp="1581607463798">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.0.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
-    <state width="1874" height="304" key="GridCell.Tab.1.bottom" timestamp="1581427471123">
+    <state width="1874" height="368" key="GridCell.Tab.0.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581607463798" />
+    <state width="1874" height="287" key="GridCell.Tab.1.bottom" timestamp="1581606421460">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.1.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
-    <state width="1874" height="304" key="GridCell.Tab.1.center" timestamp="1581427471123">
+    <state width="1874" height="287" key="GridCell.Tab.1.bottom/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581606421460" />
+    <state width="1874" height="287" key="GridCell.Tab.1.center" timestamp="1581606421460">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.1.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
-    <state width="1874" height="304" key="GridCell.Tab.1.left" timestamp="1581427471123">
+    <state width="1874" height="287" key="GridCell.Tab.1.center/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581606421460" />
+    <state width="1874" height="287" key="GridCell.Tab.1.left" timestamp="1581606421460">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.1.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
-    <state width="1874" height="304" key="GridCell.Tab.1.right" timestamp="1581427471123">
+    <state width="1874" height="287" key="GridCell.Tab.1.left/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581606421460" />
+    <state width="1874" height="287" key="GridCell.Tab.1.right" timestamp="1581606421460">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state width="1874" height="304" key="GridCell.Tab.1.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427471123" />
+    <state width="1874" height="287" key="GridCell.Tab.1.right/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581606421460" />
     <state x="743" y="465" width="399" height="161" key="NewPhpFileDialog" timestamp="1581076104438">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
@@ -278,10 +297,10 @@
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
     <state x="436" y="175" width="1022" height="742" key="SettingsEditor/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1580211161290" />
-    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1581069490756">
+    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2" timestamp="1581427663784">
       <screen x="0" y="24" width="1920" height="1032" />
     </state>
-    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581069490756" />
+    <state x="542" y="276" width="800" height="540" key="Vcs.Push.Dialog.v2/0.24.1920.1032/1920.0.1920.1080@0.24.1920.1032" timestamp="1581427663784" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -522,24 +541,94 @@
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/swap-nodes-algo/solution.php</url>
+          <url>file://$PROJECT_DIR$/jesse-and-cookies/solution.php</url>
           <line>58</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/swap-nodes-algo/solution.php</url>
+          <url>file://$PROJECT_DIR$/jesse-and-cookies/solution.php</url>
           <line>52</line>
           <option name="timeStamp" value="85" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/swap-nodes-algo/solution.php</url>
+          <url>file://$PROJECT_DIR$/jesse-and-cookies/solution.php</url>
           <line>22</line>
           <option name="timeStamp" value="88" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/swap-nodes-algo/solution.php</url>
+          <url>file://$PROJECT_DIR$/jesse-and-cookies/solution.php</url>
           <line>30</line>
           <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/qheap1/solution.php</url>
+          <line>39</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/qheap1/solution.php</url>
+          <line>16</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/qheap1/solution.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/qheap1/solution.php</url>
+          <line>34</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/qheap1/solution.php</url>
+          <line>33</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/qheap1/solution.php</url>
+          <line>36</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>51</line>
+          <option name="timeStamp" value="102" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>13</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>19</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>21</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>26</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>34</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>38</line>
+          <option name="timeStamp" value="110" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/find-the-running-median/solution.php</url>
+          <line>44</line>
+          <option name="timeStamp" value="111" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

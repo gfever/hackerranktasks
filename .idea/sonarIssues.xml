@@ -548,6 +548,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../fileserver/deployment/fsapp/values6.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/2DArrayDS/readme.md">
           <value>
             <set />
@@ -603,6 +608,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/find-the-running-median/expected">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/find-the-running-median/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/game-of-two-stacks/expected">
           <value>
             <set />
@@ -619,6 +634,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/maximum-element/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/qheap1/input">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/qheap1/solution.php">
           <value>
             <set />
           </value>
@@ -654,6 +679,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/waiter/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ruls/resources/views/master.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ruomx/deployment/ruomxapp/values-adult.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../ruomx/deployment/ruomxapp/values.yaml">
           <value>
             <set />
           </value>
@@ -743,6 +783,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/httpRequests/bigpreset2.http">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/httpRequests/http-client.env.json">
           <value>
             <set />
@@ -828,12 +873,67 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Http/Controllers/MultiController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Http/routes.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Artist.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Author.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Chapter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Genre.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Item.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Multi/Item.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/config/app.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/docker/env/omx-ngx/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/docker/src/headless-worker/supervisord.conf">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxapp/values-adult.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxapp/values-multi.yaml">
           <value>
             <set />
           </value>
@@ -849,6 +949,76 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxhdl/values.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/chapter.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/components/mangacard-front.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/components/mangacard.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/counters.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/front.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/item.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/list.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaoof/chapter.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaoof/counters.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaoof/front.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaoof/item.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaoof/list.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaoof/master.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/master.blade.php">
           <value>
             <set />
           </value>
