@@ -1,0 +1,29 @@
+select country.continent, FLOOR(avg(city.population), 0) as popavg from country inner join city on country.code = city.countrycode group by country.continent order by popavg DESC
+
+select
+CASE 
+    WHEN g.Grade > 7 THEN s.Name
+    else NULL
+END,
+g.Grade, s.Marks
+from students s inner join grades g on s.marks between g.Min_Map;rk and g.Max_Mark order by g.Grade DESC, s.Name ASC
+
+
+
+SELECT h.hacker_id, h.name from (
+select s.hacker_id, c.difficulty_level, s.score from submissions s INNER JOIN challenges c ON s.challenge_id = c.challenge_id) t1 
+    INNER JOIN hackers h ON t1.hacker_id = h.hacker_id
+    INNER JOIN difficulty d2 ON t1.difficulty_level = d2.difficulty_level AND t1.score = d2.score GROUP BY h1.hacker_id HAVING count(h.hacker_id) > 1 ORDER BY
+    
+    
+
+select a1.hacker_id, h1.name FROM (
+    SELECT t1.hacker_id, count(t1.hacker_id) as cnt from (
+        select s.hacker_id, c.difficulty_level, s.score from submissions s 
+        INNER JOIN challenges c ON s.challenge_id = c.challenge_id
+    ) t1 
+    INNER JOIN difficulty d2 ON t1.difficulty_level = d2.difficulty_level 
+    AND t1.score = d2.score 
+    GROUP BY t1.hacker_id HAVING cnt > 1
+) a1 
+INNER JOIN hackers h1 ON a1.hacker_id = h1.hacker_id ORDER BY a1.cnt DESC, a1.hacker_id ASC

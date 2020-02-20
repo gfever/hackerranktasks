@@ -553,6 +553,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../fromx/deployment/fromxapp/values-adult.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../fromx/deployment/fromxapp/values.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/2DArrayDS/readme.md">
           <value>
             <set />
@@ -638,6 +648,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/minimum-average-waiting-time/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/occupations/solution.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/qheap1/input">
           <value>
             <set />
@@ -654,6 +674,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/simple-text-editor/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/sql/sql">
           <value>
             <set />
           </value>
@@ -708,7 +733,92 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Admin/HallTokenController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Admin/MasterToken.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Admin/MasterTokenController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Admin/ServiceController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/HallTokenController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Segmentation/DocumentController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Kernel.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Middleware/AdminAuth.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Admin/HallTokenUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Admin/MasterTokenCreateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Admin/MasterTokenUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Admin/ServiceCreateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Admin/ServiceUpdateRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Admin/ServiceUpdateeRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Documents/CreateDocumentsRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Requests/Documents/GetDocumentByIdRequest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Models/HallToken.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Models/MasterToken.php">
           <value>
             <set />
           </value>
@@ -743,7 +853,37 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Transformers/Admin/HallTokenTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Transformers/Admin/MasterTokenTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Transformers/Admin/ServiceTransformer.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/composer.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/config/app.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/config/l5-swagger.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/database/migrations/2019_05_17_143321_create_hall_tokens.php">
           <value>
             <set />
           </value>
@@ -753,7 +893,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/docker/test/docker-compose-slim.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/docker/test/src/backend/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/docker/test/src/frontend/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/docker/test/src/mysql/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/phpunit.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/routes/api.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/routes/api/admin.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/routes/api/common.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Controllers/Api/V1/Admin/HallTokenControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Controllers/Api/V1/Admin/MasterTokenControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Controllers/Api/V1/Admin/ServiceControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Controllers/Api/V1/HallTokenControllerTest.php">
           <value>
             <set />
           </value>
@@ -788,6 +983,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/httpRequests/documents.http">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/httpRequests/http-client.env.json">
           <value>
             <set />
@@ -808,6 +1008,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Http/Controllers/Multi/EsMangaOofController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Http/Controllers/MultiController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Http/routes.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Models/Chapter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Models/Genre.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Models/Item.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Models/Omx.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Services/Ad.php">
           <value>
             <set />
@@ -823,12 +1058,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/app/Services/CacheWrapper.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/config/app.php">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/deployment/lmxapp/values-adult.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/deployment/lmxapp/values-multi.yaml">
           <value>
             <set />
           </value>
@@ -858,6 +1103,41 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/multi/esmangaoof/chapter.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/multi/esmangaoof/chapter2.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/multi/esmangaoof/chapter_ng.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/multi/esmangaoof/front.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/multi/esmangaoof/item.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/multi/esmangaoof/list.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/multi/esmangaoof/master.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/single/chapter.blade.php">
           <value>
             <set />
@@ -869,6 +1149,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/single/master.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Console/Commands/Inspire.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Http/Controllers/Multi/EsMangaOofController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Http/Controllers/Multi/MangaOofController.php">
           <value>
             <set />
           </value>
@@ -908,7 +1203,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Lmx.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/Multi/Item.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Services/CacheWrapper.php">
           <value>
             <set />
           </value>
