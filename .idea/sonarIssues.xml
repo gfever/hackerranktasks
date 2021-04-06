@@ -28,6 +28,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/.gitlab-ci.yml">
           <value>
             <set />
@@ -378,6 +383,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../admin-panel-service/config/session.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../admin-panel-service/database/factories/UserFactory.php">
           <value>
             <set />
@@ -548,6 +558,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../fileserver/deployment/fsapp/values.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../fileserver/deployment/fsapp/values6.yaml">
           <value>
             <set />
@@ -604,6 +619,31 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/QueuesATaleTwoStacks/solution..php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/array-left-rotation/input">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/array-left-rotation/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/arrays-ds/solution.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/badoo.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/dynamic-array/solution.php">
           <value>
             <set />
           </value>
@@ -723,12 +763,57 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/.env.example">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/.gitignore">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/.gitlab-ci.yml">
           <value>
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Console/Commands/CloneIndex.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Console/Commands/CopyIndex.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Console/Commands/Dev/DummyDataForIndex.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Console/Kernel.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Exceptions/Handler.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Helpers/StringToken.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Admin/DevController.php">
           <value>
             <set />
           </value>
@@ -753,6 +838,31 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/ApiController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/DevController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/DocumentController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Fraud/DocumentController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Fraud/SearchController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/HallTokenController.php">
           <value>
             <set />
@@ -763,12 +873,47 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Api/V1/Segmentation/SearchController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/MetricController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/MetricsController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Voyager/VoyagerHallTokenController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Controllers/Voyager/VoyagerMasterTokenController.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Kernel.php">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Middleware/AdminAuth.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Middleware/ApiResponseTime.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Http/Middleware/AuthToken.php">
           <value>
             <set />
           </value>
@@ -813,6 +958,36 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Jobs/AggregatePeriod.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Metrics/PrometheusAdapterFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Metrics/PrometheusClient.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Metrics/PrometheusOffAdapter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Metrics/PrometheysAdapterFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Metrics/TimeMeter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Models/HallToken.php">
           <value>
             <set />
@@ -823,7 +998,77 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Prometheus/Exporter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Prometheus/PrometheusClient.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Providers/AppServiceProvider.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Providers/TelescopeServiceProvider.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Providers/VoyagerServiceProvider.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/RequestBodies/DocumentBalanceData.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/RequestBodies/DocumentFinancialData.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/RequestBodies/DocumentPersonalData.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Rules/DocumentDataValidationRule.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Rules/PresetValidationRule.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Aggregators/Aggregations/FinancialByTime.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Aggregators/Aggregations/FinancialDocumentConverter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Aggregators/IntervalAggregator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Documents/DocumentFabric.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Documents/FinancialDocument.php">
           <value>
             <set />
           </value>
@@ -833,7 +1078,202 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Index/IndexManager.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Search.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/Bet.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/BetDocument.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/Deposit.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/DepositDocument.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/FinancialDocumentFactory.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/Transaction.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/TransactionDocument.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/Win.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/WinDocument.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/Withdrawal.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Documents/Financial/WithdrawalDocument.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/BalanceFilter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/BaseFilter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/BaseFilterValidator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/FilterValidator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/FinancialFilter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/FinancialInfoFilter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/FinancialV2Filter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Filters/FinancialV2FilterValidator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/PresetSearchDecorator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Aggregations/AggregationBuilder.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Aggregations/AggregationSearch.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Aggregations/AggregationSearchable.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Aggregations/SimpleAggregatiom.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Aggregations/SimpleAggregation.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Balance/Amount.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Balance/BalanceConditionInterface.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Balance/BaseBalance.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Balance/BaseBalanceAgg.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Balance/BaseBalanceSimple.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Balance/Count.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/BaseCondition.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Financial/BaseFinancialCondition.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Financial/FinancialCondition.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Financial/FinancialConditionFabric.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/Financial/SingleTransaction.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/QueryConverters/BalanceQueryConverter.php">
           <value>
             <set />
           </value>
@@ -844,6 +1284,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Conditions/QueryConverters/Inverter.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/Preset.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/Presets/PresetValidator.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/app/Search/Services/Segmentation/SearchFacade.php">
           <value>
             <set />
           </value>
@@ -873,7 +1328,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/composer.lock">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/config/app.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/config/database.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/config/filters.php">
           <value>
             <set />
           </value>
@@ -883,7 +1353,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/config/prometheus.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/database/migrations/2019_05_17_143321_create_hall_tokens.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/database/migrations/2019_09_06_073823_create_table_services.php">
           <value>
             <set />
           </value>
@@ -898,6 +1378,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/docker/test/prometheus/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/docker/test/src/backend/Dockerfile">
           <value>
             <set />
@@ -908,12 +1393,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/docker/test/src/frontend/vhost.conf">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/docker/test/src/mysql/Dockerfile">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/phpunit.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/phpunit.xml.dist">
           <value>
             <set />
           </value>
@@ -929,6 +1424,26 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/routes/api/common.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/routes/api/fraud.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/routes/api/segmentation.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/routes/web.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Commands/CloneIndexTest.php">
           <value>
             <set />
           </value>
@@ -953,7 +1468,62 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Controllers/Api/V1/SearchControllerTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Helpers/StringTokenTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Metrics/PrometheusClientTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Metrics/TimeMeterTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Documents/DocumentFabricTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/PresetSearchDecoratorTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/Presets/Conditions/Balance/CountTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/Presets/Conditions/Financial/FirstDepositTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/Presets/Conditions/Financial/FirstWithdrawalTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/Presets/Conditions/Financial/LastDepositTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/Presets/Conditions/Financial/LastWithdrawalTest.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/Search/Services/Segmentation/Presets/Conditions/QueryConverters/BalanceSearchDecoratorTest.php">
           <value>
             <set />
           </value>
@@ -963,7 +1533,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/TestCase.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/data/presets/33.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/data/presets/34.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/tests/data/presets/35.json">
           <value>
             <set />
           </value>
@@ -989,6 +1574,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../segmentation/tests/httpRequests/http-client.env.json">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../segmentation/vendor/endclothing/prometheus_client_php/src/Prometheus/PushGateway.php">
           <value>
             <set />
           </value>
@@ -1088,6 +1678,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/deployment/lmxhdl/values-worker.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/lm_core/deployment/lmxhdl/values.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/lm_core/resources/views/bootstrap4/chapter.blade.php">
           <value>
             <set />
@@ -1158,6 +1758,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Console/Kernel.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Http/Controllers/Multi/EsMangaOofController.php">
           <value>
             <set />
@@ -1213,7 +1818,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Models/StartModel.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Services/CacheWrapper.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/app/Services/DbWrapper.php">
           <value>
             <set />
           </value>
@@ -1249,6 +1864,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxapp/values.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/deployment/omxhdl/values-worker.yaml">
           <value>
             <set />
           </value>
@@ -1323,7 +1943,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaway/chapter.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/mangaway/item.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../xkd/mal_core/resources/views/multi/master.blade.php">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_10.composerLog">
           <value>
             <set />
           </value>
@@ -1338,12 +1973,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_8.composerLog">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/Composer Log/Composer Log_9.composerLog">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell">
           <value>
             <set />
           </value>
         </entry>
         <entry key="&lt;b3e81b86-a139-40d1-ad47-8b0c9149eca2&gt;/var/www/redbutton.dev2.devcaz.com/www/aps/htdocs/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="&lt;b3e81b86-a139-40d1-ad47-8b0c9149eca2&gt;/var/www/redbutton.dev2.devcaz.com/www/pdav5/htdocs/.env">
           <value>
             <set />
           </value>
